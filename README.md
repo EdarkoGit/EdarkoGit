@@ -1,12 +1,12 @@
-### Motivado, apto para el
+Motivado, apto para el
 trabajo en equipo.
-### Siempre buscando aprender
+Siempre buscando aprender
 nuevas habilidades y asumir
 responsabilidades
 adicionales y crecer
 profesionalmente
 
-__Skills__
+### Skills
 
 - Node js
 - Express
@@ -16,9 +16,9 @@ __Skills__
 - React-Redux
 - Git-Github
 
-__WORK EXPERIENCE__
+### WORK EXPERIENCE
 
-### Asistente de enseñanza Full-Stack
+__Asistente de enseñanza Full-Stack__
 
 - Asistente de enseñanza en el bootcamp de
 desarrollo Full Stack Henry.
@@ -32,7 +32,7 @@ programming
 - Proponer ideas para mejorar los procesos del
 Bootcamp
 
-### Henry Pokemon App
+__Henry Pokemon App__
 
 - Aplicación en la cual se puedan ver los distintos
 Pokemon utilizando la api externa pokeapi y a partir
