@@ -1,24 +1,25 @@
-Motivado, apto para el
+### Motivado, apto para el
 trabajo en equipo.
-Siempre buscando aprender
+### Siempre buscando aprender
 nuevas habilidades y asumir
 responsabilidades
 adicionales y crecer
 profesionalmente
 
-Skills
+__Skills__
 
-Node js
-Express
-Sequelize
-HTML
-Styled-Components
-React-Redux
-Git-Github
+- Node js
+- Express
+- Sequelize
+- HTML
+- Styled-Components
+- React-Redux
+- Git-Github
 
-WORK EXPERIENCE
+__WORK EXPERIENCE__
 
-*** Asistente de enseñanza Full-Stack ***
+### Asistente de enseñanza Full-Stack
+
 - Asistente de enseñanza en el bootcamp de
 desarrollo Full Stack Henry.
 - Coordinar grupos de estudiantes con el fin de lograr
@@ -31,11 +32,12 @@ programming
 - Proponer ideas para mejorar los procesos del
 Bootcamp
 
-*** Henry Pokemon App ***
-Aplicación en la cual se puedan ver los distintos
+### Henry Pokemon App
+
+- Aplicación en la cual se puedan ver los distintos
 Pokemon utilizando la api externa pokeapi y a partir
 de ella poder buscar pokemons, filtrar, ordenar y
 crear nuevos pokemon
-Tecnologías utilizadas: Nodejs, React-Redux, Express,
+- Tecnologías utilizadas: Nodejs, React-Redux, Express,
 Sequelize-Postgres
 https://github.com/EdarkoGit/PI-Pokemon-main
