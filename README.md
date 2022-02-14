@@ -8,15 +8,15 @@ profesionalmente
 
 ### Skills
 
--HTML
--CSS
--JavaScript
--React-Redux
--Styled-Components
--Node.js
--Express
--Sequelize
--Git-Github
+- HTML
+- CSS
+- JavaScript
+- React-Redux
+- Styled-Components
+- Node.js
+- Express
+- Sequelize
+- Git-Github
 
 ### WORK EXPERIENCE
 
