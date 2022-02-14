@@ -8,13 +8,15 @@ profesionalmente
 
 ### Skills
 
-- Node js
-- Express
-- Sequelize
-- HTML
-- Styled-Components
-- React-Redux
-- Git-Github
+-HTML
+-CSS
+-JavaScript
+-React-Redux
+-Styled-Components
+-Node.js
+-Express
+-Sequelize
+-Git-Github
 
 ### WORK EXPERIENCE
 
